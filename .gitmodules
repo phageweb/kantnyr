@@ -1,0 +1,3 @@
+[submodule "kantnyr/themes/archie"]
+	path = kantnyr/themes/archie
+	url = https://github.com/athul/archie.git
