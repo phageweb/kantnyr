@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "archie"
-
+ignoreErrors = ['error-missing-instagram-accesstoken']
 [params]
   mode = "light"  # nebo "dark"
   useCDN = false
