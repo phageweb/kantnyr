@@ -1,6 +1,6 @@
 baseURL = "https://kantnyr.cz/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Kantnýř"
 theme = "archie"
 ignoreErrors = ['error-missing-instagram-accesstoken']
 [params]

@@ -1,11 +1,11 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2020-04-01T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
+title: "Druhý den"
+date: 2025-02-27T02:01:58+05:30
+description: "bude."
 tags: [Primer, todo]
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+Opravdu budeYou have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 
 It all keeps piling up, and it can feel overwhelming.
 
