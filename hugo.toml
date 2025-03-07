@@ -1,7 +1,7 @@
 baseURL = "https://kantnyr.cz/"
 languageCode = "en-us"
 title = "Kantnýř"
-theme = "archie"
+theme = "hugo-book"
 ignoreErrors = ['error-missing-instagram-accesstoken']
 [params]
   mode = "light"  # nebo "dark"
